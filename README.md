@@ -28,6 +28,12 @@ One Sports
 Tagalized Movie Channel
 TV Maria
 ```
+
+Link to IPTV M3U
+```
+https://raw.githubusercontent.com/IPTV-Philippinesofficial/IPTV-Pilipinas/refs/heads/main/ph.m3u
+```
+
   - Credits to all the sources of the working m3u links
 
 

@@ -10,13 +10,15 @@ Cartoonito
 FIFA+ Italy
 MovieSphere
 Japanim TV
+Hunan TV
+Cartoon Network
 
 
 Local Channels:
 Abante TV
 A2Z
 Bilyonaryo News Channel
-ALLTV
+ALL TV
 INC Radio
 DepEd TV
 One Sports
@@ -26,6 +28,9 @@ GMA
 GTV
 Kapamilya Channel HD
 CineMo!
+IBC 13
+INC TV
+FilAm TV Network
 ```
 
 Link to IPTV M3U

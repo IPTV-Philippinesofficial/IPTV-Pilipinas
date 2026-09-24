@@ -38,6 +38,11 @@ Link to IPTV PH M3U
 https://raw.githubusercontent.com/IPTV-Philippinesofficial/IPTV-Pilipinas/refs/heads/main/ph.m3u
 ```
 
+Link to IPTV KP (North Korea) M3U
+```
+https://raw.githubusercontent.com/IPTV-Philippinesofficial/IPTV-Pilipinas/refs/heads/main/kp.m3u
+```
+
   - Credits to all the sources of the working m3u links
 
 

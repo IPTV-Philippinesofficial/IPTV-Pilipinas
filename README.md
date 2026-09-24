@@ -33,7 +33,7 @@ INC TV
 FilAm TV Network
 ```
 
-Link to IPTV M3U
+Link to IPTV PH M3U
 ```
 https://raw.githubusercontent.com/IPTV-Philippinesofficial/IPTV-Pilipinas/refs/heads/main/ph.m3u
 ```

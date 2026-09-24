@@ -25,6 +25,7 @@ TV Maria
 GMA
 GTV
 Kapamilya Channel HD
+CineMo!
 ```
 
 Link to IPTV M3U

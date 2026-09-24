@@ -4,15 +4,9 @@ Channel List as of September 24, 2026:
 ```
 NBA TV USA
 Zarok TV Sorani
-Nickelodeon
-Disney Channel Latin America
 Animal Planet
-BBC Food
 Moonbug Kids
 Cartoonito
-Nickelodeon
-Always Funny Videos
-Animax
 FIFA+ Italy
 MovieSphere
 Japanim TV

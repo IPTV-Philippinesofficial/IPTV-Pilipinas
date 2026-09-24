@@ -15,6 +15,7 @@ Always Funny Videos
 Animax
 FIFA+ Italy
 MovieSphere
+Japanim TV
 
 
 Local Channels:
@@ -27,6 +28,9 @@ DepEd TV
 One Sports
 Tagalized Movie Channel
 TV Maria
+GMA
+GTV
+Kapamilya Channel HD
 ```
 
 Link to IPTV M3U

@@ -31,6 +31,7 @@ Kapamilya Channel HD
 TeleRadyo
 CineMo!
 IBC 13
+DZRH TV
 INC TV
 FilAm TV Network
 ```

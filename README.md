@@ -27,6 +27,7 @@ TV Maria
 GMA
 GTV
 Kapamilya Channel HD
+TeleRadyo
 CineMo!
 IBC 13
 INC TV

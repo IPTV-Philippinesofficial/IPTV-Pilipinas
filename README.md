@@ -12,6 +12,7 @@ MovieSphere
 Japanim TV
 Hunan TV
 Cartoon Network
+USA Today
 
 
 Local Channels:

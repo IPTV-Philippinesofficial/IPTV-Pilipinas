@@ -13,6 +13,7 @@ Japanim TV
 Hunan TV
 Cartoon Network
 USA Today
+MNCTV (Indonesia)
 
 
 Local Channels:

@@ -34,6 +34,9 @@ IBC 13
 DZRH TV
 INC TV
 FilAm TV Network
+Premier Sports 2
+Premier Sports
+Hope Channel Philippines
 ```
 
 Link to IPTV PH M3U

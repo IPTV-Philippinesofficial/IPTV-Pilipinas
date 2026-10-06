@@ -14,6 +14,7 @@ Hunan TV
 Cartoon Network
 USA Today
 MNCTV (Indonesia)
+Stingray Karaoke
 
 
 Local Channels:

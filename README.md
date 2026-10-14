@@ -56,6 +56,7 @@
 * Premier Sports 2
 * Premier Sports
 * Hope Channel Philippines
+* Aliw Channel
 
 </details>
 

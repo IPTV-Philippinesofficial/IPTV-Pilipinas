@@ -26,6 +26,7 @@
  * USA Today
  * MNCTV HD
  * EWTN
+ * CFN Catholic Faith Network
 
   **News & Entertainment Channel**
  * Animal Planet

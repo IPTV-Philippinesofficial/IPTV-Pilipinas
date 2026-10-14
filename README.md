@@ -18,6 +18,7 @@
 
   **Movies Channel**
  * MovieSphere
+ * FilmRise Movies
 
   **Various Channel**
  * Hunan TV

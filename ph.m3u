@@ -69,3 +69,5 @@ https://racitonsen.s.gy/PS2PH
 https://mncmedia.malingtv.workers.dev/mnctv.m3u8
 #EXTINF:-1,Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,FilmRise Movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8

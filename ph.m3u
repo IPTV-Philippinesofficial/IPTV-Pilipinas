@@ -73,3 +73,5 @@ https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 #EXTINF:-1,Paramount Movie Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web
+#EXTINF:-1,EWTN
+http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO

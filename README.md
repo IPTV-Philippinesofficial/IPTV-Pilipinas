@@ -27,7 +27,7 @@
   **Entertainment Channel**
  * Animal Planet
 
-   **Music Channel**
+ **Music Channel**
  * Stingray Karaoke
 
 </details>

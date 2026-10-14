@@ -27,8 +27,9 @@
  * MNCTV HD
  * EWTN
 
-  **Entertainment Channel**
+  **News & Entertainment Channel**
  * Animal Planet
+ * BBC Food
 
  **Music Channel**
  * Stingray Karaoke

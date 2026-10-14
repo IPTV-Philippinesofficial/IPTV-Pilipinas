@@ -1,45 +1,63 @@
 # IPTV-Pilipinas
-Philippine based maintained IPTV list from various sources.
-Channel List as of September 24, 2026:
-```
-NBA TV USA
-Zarok TV Sorani
-Animal Planet
-Moonbug Kids
-Cartoonito
-FIFA+ Italy
-MovieSphere
-Japanim TV
-Hunan TV
-Cartoon Network
-USA Today
-MNCTV (Indonesia)
-Stingray Karaoke
 
+## Channel Directory
 
-Local Channels:
-Abante TV
-A2Z
-Bilyonaryo News Channel
-ALL TV
-INC Radio
-DepEd TV
-One Sports
-Tagalized Movie Channel
-TV Maria
-GMA
-GTV
-Kapamilya Channel HD
-TeleRadyo
-CineMo!
-IBC 13
-DZRH TV
-INC TV
-FilAm TV Network
-Premier Sports 2
-Premier Sports
-Hope Channel Philippines
-```
+<details>
+<summary><strong>International & Specialty Channel</strong></summary>
+  
+**Sports Channel**
+* NBA TV
+* FIFA+ Italy
+
+  **Kids Channel**
+* Zarok TV Sorani
+* Moonbug Kids
+* Cartoonito
+* Cartoon Network
+* Japanim TV
+
+  **Movies Channel**
+* MovieSphere
+
+  **Various Channel**
+* Hunan TV
+* USA Today
+* MNCTV (Indonesia)
+
+  **Entertainment Channel**
+* Animal Planet
+
+   **Music Channel**
+* Stingray Karaoke
+
+</details>
+
+<details>
+<summary><strong>Philippine Channels</strong></summary>
+
+* Abante TV
+* A2Z
+* Bilyonaryo News Channel
+* ALL TV
+* INC Radio
+* DepEd TV
+* One Sports
+* Tagalized Movie Channel
+* TV Maria
+* GMA
+* GTV
+* Kapamilya Channel HD
+* TeleRadyo
+* CineMo!
+* IBC 13
+* DZRH TV
+* INC TV
+* FilAm TV Network
+* Premier Sports 2
+* Premier Sports
+* Hope Channel Philippines
+
+</details>
 
 Link to IPTV PH M3U
 ```

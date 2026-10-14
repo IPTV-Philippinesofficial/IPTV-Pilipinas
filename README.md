@@ -38,7 +38,7 @@
 * Abante TV
 * A2Z
 * Bilyonaryo News Channel
-* ALL TV
+* ALLTV
 * INC Radio
 * DepEd TV
 * One Sports

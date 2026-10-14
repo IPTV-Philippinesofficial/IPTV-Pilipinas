@@ -6,29 +6,29 @@
 <summary><strong>International & Specialty Channel</strong></summary>
   
 **Sports Channel**
-* NBA TV
-* FIFA+ Italy
+ * NBA TV
+ * FIFA+ Italy
 
   **Kids Channel**
-* Zarok TV Sorani
-* Moonbug Kids
-* Cartoonito
-* Cartoon Network
-* Japanim TV
+ * Zarok TV Sorani
+ * Moonbug Kids
+ * Cartoonito
+ * Cartoon Network
+ * Japanim TV
 
   **Movies Channel**
-* MovieSphere
+ * MovieSphere
 
   **Various Channel**
-* Hunan TV
-* USA Today
-* MNCTV (Indonesia)
+ * Hunan TV
+ * USA Today
+ * MNCTV (Indonesia)
 
   **Entertainment Channel**
-* Animal Planet
+ * Animal Planet
 
    **Music Channel**
-* Stingray Karaoke
+ * Stingray Karaoke
 
 </details>
 

@@ -19,11 +19,12 @@
   **Movies Channel**
  * MovieSphere
  * FilmRise Movies
+ * Paramount Movie Channel
 
-  **Various Channel**
+  **Regional & Religious Channel**
  * Hunan TV
  * USA Today
- * MNCTV (Indonesia)
+ * MNCTV HD
 
   **Entertainment Channel**
  * Animal Planet
@@ -55,7 +56,7 @@
 * INC TV
 * FilAm TV Network
 * Premier Sports 2
-* Premier Sports
+* Premier Sports HD
 * Hope Channel Philippines
 * Aliw Channel
 

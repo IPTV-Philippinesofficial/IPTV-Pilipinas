@@ -25,6 +25,7 @@
  * Hunan TV
  * USA Today
  * MNCTV HD
+ * EWTN
 
   **Entertainment Channel**
  * Animal Planet

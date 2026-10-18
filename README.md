@@ -30,6 +30,7 @@
 
   **News & Entertainment Channel**
  * Animal Planet
+ * BBC News World
  * BBC Food
 
  **Music Channel**

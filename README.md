@@ -15,6 +15,7 @@
  * Cartoonito
  * Cartoon Network
  * Japanim TV
+ * Persiana Junior
 
   **Movies Channel**
  * MovieSphere
@@ -32,6 +33,8 @@
  * Animal Planet
  * BBC News World
  * BBC Food
+ * Persiana Travel
+ * CNN International
 
  **Music Channel**
  * Stingray Karaoke

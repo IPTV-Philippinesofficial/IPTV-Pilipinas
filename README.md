@@ -36,6 +36,7 @@
  * BBC Food
  * Persiana Travel
  * CNN International
+ * Outdoor Channel
 
  **Music Channel**
  * Stingray Karaoke

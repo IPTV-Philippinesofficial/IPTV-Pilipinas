@@ -28,6 +28,7 @@
  * MNCTV HD
  * EWTN
  * CFN Catholic Faith Network
+ * Asian Food Network Vietnam
 
   **News & Entertainment Channel**
  * Animal Planet

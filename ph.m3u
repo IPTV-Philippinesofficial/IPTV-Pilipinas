@@ -79,3 +79,11 @@ http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceMode
 #EXTINF:-1,CFN Catholic Faith Network (720p)
 https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1,BBC News World
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1,Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:1,Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,CNN International
+http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8

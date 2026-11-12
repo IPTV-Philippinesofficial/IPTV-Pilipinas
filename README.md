@@ -56,6 +56,8 @@
 * Tagalized Movie Channel
 * TV Maria
 * GMA
+* GMA Pinoy TV
+* I Heart Movies
 * GTV
 * Kapamilya Channel HD
 * TeleRadyo

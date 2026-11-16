@@ -70,6 +70,7 @@
 * Premier Sports HD
 * Hope Channel Philippines
 * Aliw Channel
+* MUX Juan (Filipino)
 
 </details>
 

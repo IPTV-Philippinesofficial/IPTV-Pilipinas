@@ -84,6 +84,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=215
 https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1,MUX JUAN (Filipino)
 https://183.giatvcdn.com/giatvplayout7/giatv-209323/playlist.m3u8
+#EXTINF:-1,MUX LIFE
+https://183.giatvcdn.com/giatvplayout7/giatv-209362/playlist.m3u8
+#EXTINF:-1,MUX SPORTS
+https://183.giatvcdn.com/giatvplayout7/giatv-209395/playlist.m3u8
+#EXTINF:-1,MUX MOVIES
+https://183.giatvcdn.com/giatvplayout7/giatv-209412/playlist.m3u8
 
 
 **********World-TV**********

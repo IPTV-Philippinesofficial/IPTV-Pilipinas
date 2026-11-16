@@ -91,6 +91,8 @@ http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:-1,Outdoor Channel (Vietnamese subtitle)
 https://freem3u.xyz/api/live/play.m3u8?vid=216
+#EXTINF:-1,MUX JUAN (Filipino)
+https://183.giatvcdn.com/giatvplayout7/giatv-209323/playlist.m3u8
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://wasabi-egg.b-cdn.net/ASIA_CONVERGE.xml"
 

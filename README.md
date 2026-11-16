@@ -19,22 +19,19 @@
 
   **Movies Channel**
  * MovieSphere
- * FilmRise Movies
- * Paramount Movie Channel
 
   **Regional & Religious Channel**
  * Hunan TV
  * USA Today
- * MNCTV HD
  * EWTN
  * CFN Catholic Faith Network
  * Asian Food Network Vietnam
  * GMA Pinoy TV
  * GMA Life TV
+ * GMA News TV
 
   **News & Entertainment Channel**
  * Animal Planet
- * BBC News World
  * BBC Food
  * Persiana Travel
  * CNN International

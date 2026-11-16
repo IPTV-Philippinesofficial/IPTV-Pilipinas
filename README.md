@@ -29,6 +29,8 @@
  * EWTN
  * CFN Catholic Faith Network
  * Asian Food Network Vietnam
+ * GMA Pinoy TV
+ * GMA Life TV
 
   **News & Entertainment Channel**
  * Animal Planet
@@ -37,6 +39,7 @@
  * Persiana Travel
  * CNN International
  * Outdoor Channel
+ * GMA News TV
 
  **Music Channel**
  * Stingray Karaoke
@@ -56,8 +59,6 @@
 * Tagalized Movie Channel
 * TV Maria
 * GMA
-* GMA Pinoy TV
-* I Heart Movies
 * GTV
 * Kapamilya Channel HD
 * TeleRadyo

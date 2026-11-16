@@ -69,6 +69,9 @@
 * Hope Channel Philippines
 * Aliw Channel
 * MUX Juan (Filipino)
+* MUX Life
+* MUX Sports
+* MUX Movies
 
 </details>
 

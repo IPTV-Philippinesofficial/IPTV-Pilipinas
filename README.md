@@ -58,7 +58,7 @@
 * GMA
 * GTV
 * Kapamilya Channel HD
-* TeleRadyo
+* TV5
 * CineMo!
 * IBC 13
 * DZRH TV

@@ -57,6 +57,8 @@
 * TV Maria
 * GMA
 * GTV
+* I Heart Movies
+* Heart of Asia Channel
 * Kapamilya Channel HD
 * TV5
 * CineMo!
